@@ -1,4 +1,4 @@
-# License Plate Detector
+# License Plate Recognition
 
 ## Training model for Character Recognition
 (trainedModel.sav)
