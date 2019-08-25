@@ -20,7 +20,7 @@ You can use the pretrained model or train yourself uing the file TrainCharacters
 
 Considering the min and max dimensions for the characters in the license plate, we locate the characters similarly. Using the pretrained character recgnition model, we predict the characters.
 
-##Using the repo
+## Using the repo
 
 To run the code, add the path of image into the DetectPlate.py file.
 Then just run the PredictCharacters.py.
