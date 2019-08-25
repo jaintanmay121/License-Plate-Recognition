@@ -4,6 +4,7 @@
 (trainedModel.sav)
 
 Using the Cross Validation and Support Vector Classification, train the model and save it using pickle.
+You can use the pretrained model or train yourself uing the file TrainCharacters.py and extracting the dataset from training_images.rar.
 
 ## Detect the Plate
 (DetectPlate.py)
